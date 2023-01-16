@@ -1,1 +1,1 @@
-# Text-1D-CNN
+# Text-1D-CNN-Model
